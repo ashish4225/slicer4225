@@ -1,8 +1,8 @@
 # slicer4225
 
-A fast, command-line 3D object slicer written in C++17. It takes a `.obj` file as input and outputs a `.gcode` file ready for 3D printing.
+A fast, command-line 3D object slicer written in C++. It takes a `.obj` file as input and outputs a `.gcode` file ready for 3D printing.
 
-This is a pure C++ port of the original Python-based `sliceofpy` project, with identical slicing logic and exact identical G-code output.
+This is a pure C++ port of the original Python-based `sliceofpy` project, with identical slicing logic and  G-code output.
 
 ## Building
 
